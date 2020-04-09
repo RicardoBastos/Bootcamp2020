@@ -28,7 +28,7 @@ app.use(logRequest);
 
 
 app.get("/repositories", (request, response) => {
-  response.json(repositories);
+  return response.json(repositories);
 });
 
 app.post("/repositories", (request, response) => {
