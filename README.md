@@ -8,5 +8,5 @@
 ## :rocket: Front-end com ReactJS
 <br>
 <h1 align="center">
-    <img alt="React" src="https://github.com/RicardoBastos/Bootcamp2020/blob/master/front/ReactCapt.JPG" />
+    <img alt="React" src="https://github.com/RicardoBastos/Bootcamp2020/blob/master/frontend/ReactCapt.JPG" />
 </h1>
