@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-    <img alt="Rocketbox" width="320" height="120" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/react_ts.png" />
+    <img alt="Rocketbox" width="320" height="210" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/react_ts.png" />
 </p>
 
 <br>
