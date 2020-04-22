@@ -14,17 +14,17 @@
 
 
 <h1 align="center">
-    <img alt="Rocketbox" width="400" height="320" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/node_tela.jpg"  />
+    <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/node_tela.jpg"  />
 </h1>
 
 <br>
 
 <h1 align="center">
-    <img alt="Rocketbox" width="400" height="320" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/react_tela.jpg"  />
+    <img alt="Rocketbox"  src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/react_tela.jpg"  />
 </h1>
 
 <h1 align="center">
-    <img alt="Rocketbox" width="400" height="320" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/mobile_tela.jpg"  />
+    <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/mobile_tela.jpg"  />
 </h1>
 
 
