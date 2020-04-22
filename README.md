@@ -1,19 +1,32 @@
-## :rocket: Back-end com Node.js
-<br>
-<h1 align="center">
-    <img alt="NodeApi" src="https://github.com/RicardoBastos/Bootcamp2020/blob/master/backend/NodeCap2.JPG" />
-</h1>
 <br>
 
-## :rocket: Front-end com ReactJS
+<p align="center">
+    <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/react_ts.png" />
+</p>
+
 <br>
+
+<p align="center">
+  <a href="#">Node</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#">React</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#">React Native</a> 
+</p>
+
+
 <h1 align="center">
-    <img alt="React" src="https://github.com/RicardoBastos/Bootcamp2020/blob/master/frontend/ReactCapt.JPG" />
+    <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/node_tela.jpg"  />
 </h1>
 
-## :rocket: Mobile
 <br>
+
 <h1 align="center">
-    <img alt="React" src="https://github.com/RicardoBastos/Bootcamp2020/blob/master/mobile/src/Mobile.JPG" />
+    <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/react_tela.jpg"  />
 </h1>
+
+<h1 align="center">
+    <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketseat-ts-tests/mobile_tela.jpg"  />
+</h1>
+
+
+Developed with ♥ by Ricardo Bastos :wave: [Get in touch!](https://www.linkedin.com/in/ricardo-bastos-975592b0/)
 
